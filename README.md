@@ -1,6 +1,8 @@
 # Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks
 This repository contains code from our paper [**Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks**]. If you use our code or refer to this project, please cite it using 
 
+[![DOI](https://zenodo.org/badge/485739893.svg)](https://zenodo.org/badge/latestdoi/485739893)
+
 ```
 @article{shenBackpropagationBiologicallyPlausible2021,
   title = {Backpropagation with {{Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks}}},
