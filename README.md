@@ -1,4 +1,6 @@
 # Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6489856.svg)](https://doi.org/10.5281/zenodo.6489856)
+
 This repository contains code from our paper [**Backpropagation with Biologically Plausible Spatio-Temporal Adjustment For Training Deep Spiking Neural Networks**]. If you use our code or refer to this project, please cite it using
 
 ```
@@ -46,5 +48,3 @@ For example, training and validating the proposed method on the MNIST dataset:
 ```bash 
 bash ./train_dvsg.sh
 ```
-
-[![DOI](https://zenodo.org/badge/485739893.svg)](https://zenodo.org/badge/latestdoi/485739893)
