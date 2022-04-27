@@ -34,7 +34,7 @@ parser.add_argument('--step', type=int, default=16)
 parser.add_argument('--encode', type=str, default='direct')
 parser.add_argument('--node', type=str, default='HTGLIFNode')
 parser.add_argument('--thresh', type=float, default=.5)
-parser.add_argument('--decay', type=float, default=1.)
+parser.add_argument('--decay', type=float, default=.9)
 
 parser.add_argument('--suffix', type=str, default='')
 parser.add_argument('--infer_every', type=int, default=1)
